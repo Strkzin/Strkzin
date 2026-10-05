@@ -103,15 +103,18 @@ Testes de intrusão **autorizados**, com laudo e divulgação responsável. Entr
 
 <br>
 
-## &nbsp;&nbsp;Números
+## &nbsp;&nbsp;Atividade
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Strkzin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=38bdf8&text_color=8b9bb4&icon_color=38bdf8&hide_title=true" alt="">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strkzin&layout=compact&hide_border=true&count_private=true&bg_color=00000000&title_color=38bdf8&text_color=8b9bb4&langs_count=8" alt="">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Strkzin/Strkzin/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Strkzin/Strkzin/output/snake-light.svg">
+    <img width="100%" alt="Cobrinha comendo o grafico de contribuicoes" src="https://raw.githubusercontent.com/Strkzin/Strkzin/output/snake-dark.svg">
+  </picture>
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Strkzin&bg_color=00000000&color=38bdf8&line=1e6fb8&point=004a8f&area=true&hide_border=true&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" alt="">
+  <img height="170" src="https://streak-stats.demolab.com?user=Strkzin&hide_border=true&background=00000000&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=8b9bb4&dates=8b9bb4&sideNums=8b9bb4&currStreakNum=38bdf8&stroke=8b9bb4&locale=pt_BR" alt="">
 </p>
 
 <br>
